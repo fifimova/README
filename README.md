@@ -12,3 +12,4 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=fifimova&theme=tokyonight)](https://git.io/streak-stats)
