@@ -1,12 +1,12 @@
 Hi there, I'm Alexandra 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="18"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 
-Java developer with a love for building scalable and efficient applications. My journey in tech started with a fascination for how software can solve complex problems and streamline everyday tasks. I was drawn to Java for its robustness and versatility, which allows me to develop a wide range of applications, from web services to mobile apps. I'm particularly fascinated by building scalable cloud solutions and exploring the latest in Spring Framework enhancements. When not coding, my world revolves around reading manga and books, as well as challenging myself with learning Chinese, which broadens my perspective and keeps my problem-solving skills sharp.
+Java Developer passionate about creating scalable, efficient applications. Fascinated by the problem-solving power of software, I specialize in Java for its robustness and versatility in building diverse applications, including web services and mobile apps. My interests extend to scalable cloud solutions and Spring Framework advancements. Outside of coding, I enjoy reading manga and books, and learning Chinese to broaden my perspectives.
 
 Feel free to connect with me via email at [fififimova@gmail.com](mailto:fififimova@gmail.com) or message me on [Telegram](https://t.me/fifimova).
 
 
-**My stack**
+**My stack:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -15,4 +15,10 @@ Feel free to connect with me via email at [fififimova@gmail.com](mailto:fififimo
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
+**I also use:**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
