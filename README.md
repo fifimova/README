@@ -1,7 +1,7 @@
 Hi there, I'm Alexandra 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 
-Java Developer passionate about creating scalable, efficient applications. Fascinated by the problem-solving power of software, I specialize in Java for its robustness and versatility in building diverse applications, including web services and mobile apps. My interests extend to scalable cloud solutions and Spring Framework advancements. Outside of coding, I enjoy reading manga and books, and learning Chinese to broaden my perspectives.
+Java Developer passionate about creating scalable, efficient applications. Fascinated by the problem-solving power of software, I specialize in Java for its robustness and versatility in building diverse applications, including web services. My interests extend to scalable cloud solutions and Spring Framework advancements. When i`m not coding, I enjoy reading manga and books, and learning Chinese to broaden my perspectives.
 
 Feel free to connect with me via email at [fififimova@gmail.com](mailto:fififimova@gmail.com) or message me on [Telegram](https://t.me/fifimova).
 
