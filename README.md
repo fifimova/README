@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/fifimova" target="_blank">Alexandra</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java developer from Russia 🇷🇺</h3>
+Hi there, I'm Alexandra 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="18"/></h1>
+
+Java developer with a love for building scalable and efficient applications. My journey in tech started with a fascination for how software can solve complex problems and streamline everyday tasks. I was drawn to Java for its robustness and versatility, which allows me to develop a wide range of applications, from web services to mobile apps. I'm particularly fascinated by building scalable cloud solutions and exploring the latest in Spring Framework enhancements. When not coding, my world revolves around reading manga and books, as well as challenging myself with learning Chinese, which broadens my perspective and keeps my problem-solving skills sharp.
+
+Feel free to connect with me via email at [fififimova@gmail.com](mailto:fififimova@gmail.com) or message me on [Telegram](https://t.me/fifimova).
+
 
 **My stack**
 
